@@ -1,0 +1,6 @@
+CREATE DATABASE BiliBiliComments;
+USE BiliBiliComments;
+CREATE TABLE Comments(
+Passage VARCHAR(4096)
+);
+
